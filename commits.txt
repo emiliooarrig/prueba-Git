@@ -1,0 +1,17 @@
+commit cf23462124c5af6184d12fd026c56e06593c5b30
+Author: emilio <earriaga@anahuac.mx>
+Date:   Sat Oct 29 21:41:03 2022 -0500
+
+    agregamos informacion al parrafo principal
+
+commit f553e93770cec59065eafc5ccf11d24366e5085f
+Author: emilio <earriaga@anahuac.mx>
+Date:   Sat Oct 29 21:37:33 2022 -0500
+
+    agregamos un nuevo h2
+
+commit 08768938b4df90fcca8533f6a5f6f384a0f6b45b
+Author: emilio <earriaga@anahuac.mx>
+Date:   Sat Oct 29 21:34:25 2022 -0500
+
+    este es un comit de prueba
